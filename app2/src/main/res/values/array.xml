@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pet_names">
+        <item>kitty</item>
+        <item>shrek</item>
+        <item>maiale</item>
+        <item>cane</item>
+        <item>dinosauro</item>
+        <item>gallina</item>
+        <item>miciaffamata</item>
+        <item>mucca</item>
+    </string-array>
+
+    <string-array name="pet_images">
+        <item>kitty</item>
+        <item>shrek</item>
+        <item>maiale</item>
+        <item>cane</item>
+        <item>dinosauro</item>
+        <item>gallina</item>
+        <item>miciaffamata</item>
+        <item>mucca</item>
+    </string-array>
+</resources>
